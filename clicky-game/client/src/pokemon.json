@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "image": "../images/01-Bulbasaur.png"
+    },
+    {
+        "id": 2,
+        "image": "../images/4-Charmander.png"
+    },
+    {
+        "id": 3,
+        "image": "../images/7-Squirtle.png"
+    },
+    {
+        "id": 4,
+        "image": "../images/152-Chikorita.png"
+    },
+    {
+        "id": 5,
+        "image": "../images/155-Cyndaquil.png"
+    },
+    {
+        "id": 6,
+        "image": "../images/158-Totodile.png"
+    },
+    {
+        "id": 7,
+        "image": "../images/252-Treecko.png"
+    },
+    {
+        "id": 8,
+        "image": "../images/255-Torchic.png"
+    },
+    {
+        "id": 9,
+        "image": "../images/258-Mudkip.png"
+    }   
+]
