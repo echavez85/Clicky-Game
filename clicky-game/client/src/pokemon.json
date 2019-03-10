@@ -1,38 +1,47 @@
 [
     {
         "id": 1,
-        "image": "../images/01-Bulbasaur.png"
+        "image": "../images/01-Bulbasaur.png",
+        "pokename": "Bulbasaur"
     },
     {
         "id": 2,
-        "image": "../images/4-Charmander.png"
+        "image": "../images/4-Charmander.png",
+        "pokename": "Charmander"
     },
     {
         "id": 3,
-        "image": "../images/7-Squirtle.png"
+        "image": "../images/7-Squirtle.png",
+        "pokename": "Squirtle"
     },
     {
         "id": 4,
-        "image": "../images/152-Chikorita.png"
+        "image": "../images/152-Chikorita.png",
+        "pokename": "Chikorita"
     },
     {
         "id": 5,
-        "image": "../images/155-Cyndaquil.png"
+        "image": "../images/155-Cyndaquil.png",
+        "pokename": "Cyndaquil"
     },
     {
         "id": 6,
-        "image": "../images/158-Totodile.png"
+        "image": "../images/158-Totodile.png",
+        "pokename": "Totodile"
     },
     {
         "id": 7,
-        "image": "../images/252-Treecko.png"
+        "image": "../images/252-Treecko.png",
+        "pokename": "Treecko"
     },
     {
         "id": 8,
-        "image": "../images/255-Torchic.png"
+        "image": "../images/255-Torchic.png",
+        "pokename": "Torchic"
     },
     {
         "id": 9,
-        "image": "../images/258-Mudkip.png"
+        "image": "../images/258-Mudkip.png",
+        "pokename": "Mudkip"
     }   
 ]
