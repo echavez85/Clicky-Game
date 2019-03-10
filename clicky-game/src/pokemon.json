@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "image": "../public/images/1-Bulbasaur.png",
+        "pokename": "Bulbasaur",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "image": "../public/images/4-Charmander.png",
+        "pokename": "Charmander",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "image": "../public/images/7-Squirtle.png",
+        "pokename": "Squirtle",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "image": "../public/images/152-Chikorita.png",
+        "pokename": "Chikorita",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "image": "../public/images/155-Cyndaquil.png",
+        "pokename": "Cyndaquil",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "image": "../public/images/158-Totodile.png",
+        "pokename": "Totodile",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "image": "../public/images/252-Treecko.png",
+        "pokename": "Treecko",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "image": "../public/images/255-Torchic.png",
+        "pokename": "Torchic",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "image": "../public/images/258-Mudkip.png",
+        "pokename": "Mudkip",
+        "clicked": false
+    }   
+]
